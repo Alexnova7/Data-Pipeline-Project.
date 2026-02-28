@@ -1,0 +1,4 @@
+id,user,val,date
+1, admin ,100.5,2024-01-01
+2,JOHN,200.0,2024-01-02
+3, guest ,-10.0,wrong
